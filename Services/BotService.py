@@ -67,8 +67,8 @@ class BotRunner:
                         print(f"{channel_news_name}频道没有新的消息需要上传")
                         logger.info(f"{channel_news_name}频道没有新的消息需要上传")
                         
-                    print(f"成功上传翻译后的消息到{channel_news_name}频道: 共{news_count}条")
-                    logger.info(f"成功上传翻译后的消息到{channel_news_name}频道: 共{news_count}条")
+                    print(f"成功上传翻译后的{channel_news_name}频道消息: 共{news_count}条")
+                    logger.info(f"成功上传翻译后的{channel_news_name}频道消息: 共{news_count}条")
 
             except Exception as e:
                 error_message = f"获取频道消息失败: {e}"

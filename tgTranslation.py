@@ -57,14 +57,14 @@ async def translate_single(text, source_lang, target_lang, session):
 
     start_time = time.time()
     async with session.post(url, json=payload) as response:
-        logging.info(f"翻译从 {source_lang} 至 {target_lang} 耗时: {time.time() - start_time}")
+        logger.info(f"翻译从 {source_lang} 至 {target_lang} 耗时: {time.time() - start_time}")
         if response.status != 200:
-            logging.error(f"翻译失败：{response.status}")
+            logger.error(f"翻译失败：{response.status}")
             raise Exception(f"翻译失败")
 
         result = await response.json()
         if result['code'] != 200:
-            logging.error(f"翻译失败：{result}")
+            logger.error(f"翻译失败：{result}")
             raise Exception(f"翻译失败")
 
         return target_lang, result['data']
