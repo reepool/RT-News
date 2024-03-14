@@ -1,0 +1,1869 @@
+2024-03-13 22:40:58,962 - root - INFO - PID: 152510 has been recorded to file: log/process.pid
+2024-03-13 22:40:58,964 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-13 22:40:59,036 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-13 22:40:59,613 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f6774c93390>
+2024-03-13 22:40:59,615 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:40:59,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,747 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,747 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,747 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 22:40:59,748 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:40:59,885 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,885 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,885 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,885 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,886 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:40:59,886 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 22:40:59,887 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:40:59,887 - root - INFO - 没有新的消息需要上传
+2024-03-13 22:40:59,887 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-13 22:42:43,934 - root - INFO - 接收到信号: 10
+2024-03-13 22:42:43,934 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-13 22:42:43,934 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-13 22:42:49,964 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-13 22:42:49,964 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-13 22:43:18,258 - root - INFO - PID: 152600 has been recorded to file: log/process.pid
+2024-03-13 22:43:18,263 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-13 22:43:18,343 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-13 22:43:18,822 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f1ce9590c50>
+2024-03-13 22:43:18,825 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:45:37,184 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:46:15,102 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-13 22:46:15,102 - root - INFO - 接收到信号: 10
+2024-03-13 22:46:15,102 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-13 22:49:27,487 - root - INFO - PID: 152711 has been recorded to file: log/process.pid
+2024-03-13 22:49:27,492 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-13 22:49:27,567 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-13 22:49:28,025 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7fd2e9843c10>
+2024-03-13 22:49:28,028 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:52:53,471 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 22:59:39,358 - root - INFO - PID: 152904 has been recorded to file: log/process.pid
+2024-03-13 22:59:39,360 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-13 22:59:39,431 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-13 22:59:39,855 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f0dd6786290>
+2024-03-13 22:59:39,856 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:59:39,976 - root - INFO - 成功获取了有效频道消息5条
+2024-03-13 22:59:39,977 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:59:40,146 - root - INFO - 成功获取了有效频道消息5条
+2024-03-13 22:59:41,602 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 22:59:41,603 - root - INFO - 翻译和处理频道消息成功: **⚡️TikTok crackdown bill pass...
+2024-03-13 22:59:43,095 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 22:59:43,096 - root - INFO - 翻译和处理频道消息成功: **Russian court shrugs at gay ...
+2024-03-13 22:59:45,741 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 22:59:45,742 - root - INFO - 翻译和处理频道消息成功: **Biden 'has energy & ability'...
+2024-03-13 22:59:47,320 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 22:59:47,321 - root - INFO - 翻译和处理频道消息成功: **2 dead in China chicken shop...
+2024-03-13 22:59:48,467 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 22:59:48,468 - root - INFO - 翻译和处理频道消息成功: **Drug-trafficking ex-Presiden...
+2024-03-13 22:59:48,469 - root - INFO - 成功读取新闻哈希表，共23条新闻
+2024-03-13 22:59:48,782 - root - INFO - 成功写入新闻哈希值到日志: 75619e447cfeb3d4459372bc8176f6df
+2024-03-13 22:59:53,996 - root - INFO - 成功写入新闻哈希值到日志: 2abd2f45c19193f44065c11343eac4ad
+2024-03-13 22:59:59,384 - root - INFO - 成功写入新闻哈希值到日志: 867fd67c60665ee62489ecf0a9c82e3c
+2024-03-13 23:00:04,645 - root - INFO - 成功写入新闻哈希值到日志: 0d0f4d8dde57a8cfeaa3b0838b9b24bd
+2024-03-13 23:00:09,852 - root - INFO - 成功写入新闻哈希值到日志: fc5e319cc595820a28d6587b4ad9f09f
+2024-03-13 23:00:14,858 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-13 23:07:11,768 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-13 23:07:11,768 - root - INFO - 接收到信号: 10
+2024-03-13 23:07:11,768 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-13 23:07:15,227 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-13 23:07:15,228 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-13 23:07:56,152 - root - INFO - PID: 153064 has been recorded to file: log/process.pid
+2024-03-13 23:07:56,153 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-13 23:07:56,237 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-13 23:07:56,682 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7fca730b2850>
+2024-03-13 23:07:56,684 - root - INFO - 成功读取新闻哈希表，共28条新闻
+2024-03-13 23:07:56,816 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,816 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,817 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,817 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,817 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:07:56,818 - root - INFO - 成功读取新闻哈希表，共28条新闻
+2024-03-13 23:07:56,969 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,969 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,969 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,970 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:07:56,970 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:07:58,244 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 23:07:58,246 - root - INFO - 翻译和处理频道消息成功: **Pakistan president ditches s...
+2024-03-13 23:07:58,246 - root - INFO - 成功读取新闻哈希表，共28条新闻
+2024-03-13 23:07:58,593 - root - INFO - 成功写入新闻哈希值到日志: a1507d78aa8fffa357a37827d384a054
+2024-03-13 23:08:03,599 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-13 23:18:04,144 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:18:04,307 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,307 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,307 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,307 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,307 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,308 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:18:04,309 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:18:04,451 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,451 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,452 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,452 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,452 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:18:04,452 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:18:04,453 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:18:04,453 - root - INFO - 没有新的消息需要上传
+2024-03-13 23:18:04,453 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-13 23:22:56,714 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-13 23:28:05,030 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:28:05,214 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,214 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,214 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,214 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,214 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:28:05,216 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:28:05,399 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,399 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,399 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,399 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:28:05,399 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:28:07,266 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 23:28:07,267 - root - INFO - 翻译和处理频道消息成功: ⚡️**Trump Election Subversion ...
+2024-03-13 23:28:07,268 - root - INFO - 成功读取新闻哈希表，共29条新闻
+2024-03-13 23:28:07,553 - root - INFO - 成功写入新闻哈希值到日志: 533cfcd765e44af38cf70062995d2fe9
+2024-03-13 23:28:12,555 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-13 23:37:56,862 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-13 23:38:13,111 - root - INFO - 成功读取新闻哈希表，共30条新闻
+2024-03-13 23:38:13,342 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,342 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,342 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,342 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,342 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:38:13,343 - root - INFO - 成功读取新闻哈希表，共30条新闻
+2024-03-13 23:38:13,460 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,460 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,460 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,460 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:38:13,461 - root - INFO - 成功获取了有效频道消息1条
+2024-03-13 23:38:15,012 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-13 23:38:15,013 - root - INFO - 翻译和处理频道消息成功: **UK grants asylum to Palestin...
+2024-03-13 23:38:15,014 - root - INFO - 成功读取新闻哈希表，共30条新闻
+2024-03-13 23:38:15,212 - root - INFO - 成功写入新闻哈希值到日志: b56b35ae428817a4d438318785bf0ffe
+2024-03-13 23:38:20,218 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-13 23:48:20,739 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:48:20,953 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:20,953 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:20,953 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:20,953 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:20,953 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:20,953 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:48:20,955 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:48:21,187 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:21,187 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:21,187 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:21,187 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:21,187 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:48:21,187 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:48:21,188 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:48:21,188 - root - INFO - 没有新的消息需要上传
+2024-03-13 23:48:21,188 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-13 23:52:57,022 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-13 23:58:21,720 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:58:21,852 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,852 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,852 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,852 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,853 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,853 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:58:21,855 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:58:21,982 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,983 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,983 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,983 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,983 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-13 23:58:21,983 - root - INFO - 成功获取了有效频道消息0条
+2024-03-13 23:58:21,984 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-13 23:58:21,984 - root - INFO - 没有新的消息需要上传
+2024-03-13 23:58:21,984 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 00:08:22,519 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-14 00:08:22,685 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,685 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,685 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,685 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,685 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 00:08:22,687 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-14 00:08:22,911 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,911 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,911 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,911 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:08:22,911 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 00:08:24,106 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 00:08:24,107 - root - INFO - 翻译和处理频道消息成功: **UK will no longer prescribe ...
+2024-03-14 00:08:24,108 - root - INFO - 成功读取新闻哈希表，共31条新闻
+2024-03-14 00:08:24,511 - root - INFO - 成功写入新闻哈希值到日志: 91fe087cfc265d74d078dd3c3291c9cc
+2024-03-14 00:08:29,517 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 00:18:30,037 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:18:30,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,232 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:18:30,234 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:18:30,385 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,385 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,386 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,386 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,386 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:18:30,386 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:18:30,387 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:18:30,387 - root - INFO - 没有新的消息需要上传
+2024-03-14 00:18:30,387 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 00:22:57,593 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 00:28:30,891 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:28:31,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,093 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,093 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,093 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,093 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:28:31,095 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:28:31,251 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,252 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,252 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,252 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,252 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:28:31,252 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:28:31,253 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:28:31,253 - root - INFO - 没有新的消息需要上传
+2024-03-14 00:28:31,253 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 00:38:31,764 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:38:31,937 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:31,937 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:31,937 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:31,937 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:31,937 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 00:38:31,938 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:38:32,085 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:32,086 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:32,086 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:32,086 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:38:32,086 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 00:38:33,507 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 00:38:33,509 - root - INFO - 翻译和处理频道消息成功: **LA mayor warned by Paris cou...
+2024-03-14 00:38:33,509 - root - INFO - 成功读取新闻哈希表，共32条新闻
+2024-03-14 00:38:33,891 - root - INFO - 成功写入新闻哈希值到日志: 530cfb488fee9bb16a4aff4d696772bb
+2024-03-14 00:38:38,898 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 00:48:39,407 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:48:39,530 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,530 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,530 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,531 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,531 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,531 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:48:39,532 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:48:39,651 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,651 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,652 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,652 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,652 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:48:39,652 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:48:39,653 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:48:39,653 - root - INFO - 没有新的消息需要上传
+2024-03-14 00:48:39,653 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 00:52:57,804 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 00:58:40,143 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:58:40,289 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,290 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,290 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,290 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,290 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,290 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:58:40,291 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:58:40,417 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,418 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,418 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,418 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,418 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 00:58:40,418 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 00:58:40,419 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 00:58:40,419 - root - INFO - 没有新的消息需要上传
+2024-03-14 00:58:40,419 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 01:08:40,916 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 01:08:41,045 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,045 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,045 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,045 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,045 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 01:08:41,046 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 01:08:41,178 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,178 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,179 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,179 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 01:08:41,179 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 01:08:42,227 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 01:08:42,228 - root - INFO - 翻译和处理频道消息成功: **Direct Impact | Barbecues & ...
+2024-03-14 01:08:42,229 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 01:08:42,317 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7fca72fc0e50> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 01:08:47,320 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7fca72fc0e50> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 01:08:57,328 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7fca72fc0e50> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 01:09:12,439 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7fca72fc0e50> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 01:09:32,452 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7fca72fc0e50> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 01:09:57,471 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: **Direct Impact | Barbecues & cannibals in Haiti
+**
+Western news media outlets are incessantly pushing a story about cannibalism in Haiti as the country’s government falls into chaos. In particular, the stories are focusing on one character by the name of Jimmy ‘Barbecue’ Cherizier. 
+
+The mainstream media is calling him a butcher, thug, murderer, and gang member; but other sources, namely Mr. Cherizier himself, claim Haiti is undergoing a much needed and long overdue revolution. So who is telling the truth? And is US influence and financial aid as benign as it claims to be? 
+
+On this episode of Direct Impact, Rick Sanchez sits down with the executive director of the Ron Paul Institute to dig deeper into this.
+
+[Watch the full episode here](https://rumble.com/v4iyv46-direct-impact-barbecues-and-cannibals-in-haiti.html)
+2024-03-14 01:09:57,472 - root - ERROR - 获取频道消息失败: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 01:09:57,475 - root - ERROR - 程序出现未捕获的异常: TypeError: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+['Traceback (most recent call last):\n', '  File "/home/python/RT-News/Services/BotService.py", line 50, in run\n    news_count = await process_tg_news.send_translated_messages_to_channel(self.bot_thon, channel_dest_name, translated_messages)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/home/python/RT-News/Services/process_tg_news.py", line 114, in send_translated_messages_to_channel\n    await functions.handle_error_async(bot_thon, f"Failed to send message after retries: {msg_text}")\n', '  File "/home/python/RT-News/Services/functions.py", line 143, in handle_error_async\n    await send_error_message_async(bot_thon, error_message)\n', '  File "/home/python/RT-News/Services/functions.py", line 130, in send_error_message_async\n    await bot_thon.send_message(chat_id=chat_id, text=error_message)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', "TypeError: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'\n", '\nDuring handling of the above exception, another exception occurred:\n\n', 'Traceback (most recent call last):\n', '  File "/home/python/RT-News/main.py", line 36, in <module>\n    asyncio.run(main())\n', '  File "/usr/lib/python3.11/asyncio/runners.py", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n', '  File "/usr/lib/python3.11/asyncio/runners.py", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', '  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n', '  File "/home/python/RT-News/main.py", line 32, in main\n    await bot_runner.run()\n', '  File "/home/python/RT-News/Services/BotService.py", line 64, in run\n    await functions.send_error_message_async(self.bot_thon, error_message)\n', '  File "/home/python/RT-News/Services/functions.py", line 130, in send_error_message_async\n    await bot_thon.send_message(chat_id=chat_id, text=error_message)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n', "TypeError: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'\n"]
+2024-03-14 01:09:57,527 - root - INFO - python-telegram-bot bot实例化成功: Bot[token=6804197633:AAFvqnzy2JVkycoIwRY87cE9wyE0Y0-A1TI]
+2024-03-14 08:52:27,044 - root - INFO - PID: 158650 has been recorded to file: log/process.pid
+2024-03-14 08:52:27,046 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 08:52:27,141 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 08:52:27,558 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f80ce43ed90>
+2024-03-14 08:52:27,560 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 08:52:27,675 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 08:52:27,676 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 08:52:27,785 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 08:52:28,896 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 08:52:28,898 - root - INFO - 翻译和处理频道消息成功: **Adidas To Donate Money From ...
+2024-03-14 08:52:30,784 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 08:52:30,785 - root - INFO - 翻译和处理频道消息成功: ⚡️Hunter Biden will stand tria...
+2024-03-14 08:52:32,441 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 08:52:32,442 - root - INFO - 翻译和处理频道消息成功: NYC Mayor Eric Adams gets a Co...
+2024-03-14 08:52:34,064 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 08:52:34,065 - root - INFO - 翻译和处理频道消息成功: 在铁肺中度过 72 年的人去世
+2024-03-14 08:52:34,829 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 08:52:34,830 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 08:52:34,830 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 08:52:34,830 - root - ERROR - 翻译失败: None, 400
+2024-03-14 08:52:34,831 - root - INFO - 成功读取新闻哈希表，共33条新闻
+2024-03-14 08:52:35,101 - root - INFO - 成功写入新闻哈希值到日志: 9c7dfb2ac3cde1dad321bd9accdf2881
+2024-03-14 08:52:40,257 - root - INFO - 成功写入新闻哈希值到日志: c8393a92856bf03665b1089a06e72685
+2024-03-14 08:52:45,414 - root - INFO - 成功写入新闻哈希值到日志: ecb748888d0888557c98a90fa68f0d87
+2024-03-14 08:52:50,570 - root - INFO - 成功写入新闻哈希值到日志: da868f3a26df5dcda5a24eb8a3f76f7b
+2024-03-14 08:52:55,576 - root - INFO - 成功上传翻译后的消息到频道: 共4条
+2024-03-14 09:02:56,013 - root - INFO - 成功读取新闻哈希表，共37条新闻
+2024-03-14 09:02:56,144 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,144 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,144 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,144 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,144 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 09:02:56,146 - root - INFO - 成功读取新闻哈希表，共37条新闻
+2024-03-14 09:02:56,257 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,257 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,257 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,257 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:02:56,258 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 09:02:57,920 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 09:02:57,921 - root - INFO - 翻译和处理频道消息成功: **CDC Issues Warning Against T...
+2024-03-14 09:02:57,922 - root - INFO - 成功读取新闻哈希表，共37条新闻
+2024-03-14 09:02:58,153 - root - INFO - 成功写入新闻哈希值到日志: 70f1b2ab1dc907a62033e132ded4d2c9
+2024-03-14 09:03:03,159 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 09:07:27,579 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 09:13:03,593 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 09:13:03,722 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,722 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,722 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,722 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,722 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,722 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 09:13:03,724 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 09:13:03,834 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,834 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,834 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,834 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,834 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 09:13:03,834 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 09:13:03,835 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 09:13:03,835 - root - INFO - 没有新的消息需要上传
+2024-03-14 09:13:03,835 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 14:13:15,896 - root - INFO - PID: 160915 has been recorded to file: log/process.pid
+2024-03-14 14:13:15,898 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 14:13:15,970 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 14:13:16,405 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f382f9fdc90>
+2024-03-14 14:13:16,408 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 14:13:16,526 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 14:13:16,528 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 14:13:16,636 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 14:13:17,719 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 14:13:17,720 - root - INFO - 翻译和处理频道消息成功: **More Than A Fifth Of Working...
+2024-03-14 14:13:19,195 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 14:13:19,196 - root - INFO - 翻译和处理频道消息成功: "I regret saying it was transi...
+2024-03-14 14:13:20,216 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 14:13:20,217 - root - INFO - 翻译和处理频道消息成功: **Chinese Police Officers Invi...
+2024-03-14 14:13:21,290 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 14:13:21,292 - root - INFO - 翻译和处理频道消息成功: "The only reason I'm doing thi...
+2024-03-14 14:13:22,408 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 14:13:22,409 - root - INFO - 翻译和处理频道消息成功: 
+2024-03-14 14:13:22,410 - root - INFO - 成功读取新闻哈希表，共38条新闻
+2024-03-14 14:13:22,668 - root - INFO - 成功写入新闻哈希值到日志: e1b297cb3a3a7e71df09804e6136cc79
+2024-03-14 14:13:27,851 - root - INFO - 成功写入新闻哈希值到日志: 42e0a725f0653d2d3e820984233244a5
+2024-03-14 14:13:33,027 - root - INFO - 成功写入新闻哈希值到日志: 8cdea0316c75e18606a077133ae8fbd2
+2024-03-14 14:13:38,220 - root - INFO - 成功写入新闻哈希值到日志: 2e0e1b5eefbf57f7a1543c9081ee88c8
+2024-03-14 14:13:43,388 - root - INFO - 成功写入新闻哈希值到日志: 8052f4f9868dfe90b51fbbfb52db2a5b
+2024-03-14 14:13:48,391 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 14:23:48,852 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:23:49,036 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,036 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,037 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,037 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,037 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,037 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:23:49,038 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:23:49,283 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,283 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,283 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,283 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,283 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:23:49,284 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:23:49,284 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:23:49,284 - root - INFO - 没有新的消息需要上传
+2024-03-14 14:23:49,284 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 14:28:16,532 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 14:33:49,801 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:33:49,922 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:49,922 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:49,922 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:49,922 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:49,922 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:49,922 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:33:49,923 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:33:50,105 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:50,105 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:50,105 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:50,105 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:50,105 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:33:50,105 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:33:50,106 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:33:50,106 - root - INFO - 没有新的消息需要上传
+2024-03-14 14:33:50,106 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 14:43:50,611 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:43:50,727 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,727 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,727 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,727 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,727 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,727 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:43:50,729 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:43:50,873 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,873 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,873 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,873 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,873 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:43:50,873 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:43:50,874 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:43:50,874 - root - INFO - 没有新的消息需要上传
+2024-03-14 14:43:50,874 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 14:53:51,386 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:53:51,562 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,562 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,562 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,562 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,562 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,562 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:53:51,563 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:53:51,679 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,679 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,680 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,680 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,680 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 14:53:51,680 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 14:53:51,681 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 14:53:51,681 - root - INFO - 没有新的消息需要上传
+2024-03-14 14:53:51,681 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 15:03:52,080 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 15:03:52,217 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,218 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,218 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,218 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,218 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:03:52,220 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 15:03:52,351 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,351 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,351 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,351 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:03:52,352 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:03:53,446 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 15:03:53,447 - root - INFO - 翻译和处理频道消息成功: ❗️**Ukrainian militants fired ...
+2024-03-14 15:03:53,448 - root - INFO - 成功读取新闻哈希表，共43条新闻
+2024-03-14 15:03:53,707 - root - INFO - 成功写入新闻哈希值到日志: 5f9a8654be2bd8ed6e7cee811b2920eb
+2024-03-14 15:03:58,711 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 15:13:16,804 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 15:13:59,109 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:13:59,263 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,263 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,263 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,264 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,264 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,264 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 15:13:59,266 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:13:59,422 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,423 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,423 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,423 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,423 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:13:59,423 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 15:13:59,424 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:13:59,425 - root - INFO - 没有新的消息需要上传
+2024-03-14 15:13:59,425 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 15:23:59,901 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:24:00,016 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,016 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,017 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,017 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,017 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:24:00,018 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:24:00,131 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,131 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,131 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,131 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:24:00,132 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:24:01,126 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 15:24:01,126 - root - INFO - 翻译和处理频道消息成功: "The former president has open...
+2024-03-14 15:24:01,127 - root - INFO - 成功读取新闻哈希表，共44条新闻
+2024-03-14 15:24:01,402 - root - INFO - 成功写入新闻哈希值到日志: 4280a9a7425059112cd8c033a0b80b5c
+2024-03-14 15:24:06,410 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 15:28:16,897 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 15:34:06,947 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:34:07,119 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,120 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,120 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,120 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,120 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,120 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 15:34:07,121 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:34:07,268 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:34:07,269 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 15:34:07,270 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:34:07,270 - root - INFO - 没有新的消息需要上传
+2024-03-14 15:34:07,270 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 15:44:07,750 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:44:07,864 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,864 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,864 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,864 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,864 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:44:07,865 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:44:07,990 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,991 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,991 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,991 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:44:07,991 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:44:13,181 - root - ERROR - Request error occurred during translation: 
+2024-03-14 15:44:13,183 - root - ERROR - 翻译失败: None, 500
+2024-03-14 15:44:13,184 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:44:13,184 - root - INFO - 没有新的消息需要上传
+2024-03-14 15:44:13,184 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 15:54:13,716 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:54:13,847 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,847 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,848 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,848 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,848 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:54:13,849 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:54:13,970 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,971 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,971 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,971 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 15:54:13,971 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 15:54:15,283 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 15:54:15,284 - root - INFO - 翻译和处理频道消息成功: Tech entrepreneur Kim Dotcom c...
+2024-03-14 15:54:15,285 - root - INFO - 成功读取新闻哈希表，共45条新闻
+2024-03-14 15:54:15,632 - root - INFO - 成功写入新闻哈希值到日志: 86789a245e018db7247fbbaf3ffbc390
+2024-03-14 15:54:20,638 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 15:58:17,096 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 16:04:21,175 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:04:21,305 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,305 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,305 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,305 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,305 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,305 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 16:04:21,307 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:04:21,424 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,424 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,424 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,425 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,425 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:04:21,425 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 16:04:21,426 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:04:21,426 - root - INFO - 没有新的消息需要上传
+2024-03-14 16:04:21,426 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 16:14:21,954 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:14:22,100 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,101 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,101 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,101 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,101 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 16:14:22,102 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:14:22,224 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,224 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,224 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,224 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:14:22,224 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 16:14:23,306 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 16:14:23,306 - root - INFO - 翻译和处理频道消息成功: **Boeing 777 makes emergency l...
+2024-03-14 16:14:23,307 - root - INFO - 成功读取新闻哈希表，共46条新闻
+2024-03-14 16:14:23,553 - root - INFO - 成功写入新闻哈希值到日志: da077dc9371b2fc749a4ebf863cf65d7
+2024-03-14 16:14:28,557 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 16:24:29,050 - root - INFO - 成功读取新闻哈希表，共47条新闻
+2024-03-14 16:24:29,180 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,180 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,181 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,181 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,181 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 16:24:29,182 - root - INFO - 成功读取新闻哈希表，共47条新闻
+2024-03-14 16:24:29,304 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,304 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,304 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,304 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:24:29,304 - root - INFO - 成功获取了有效频道消息1条
+2024-03-14 16:24:30,319 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 16:24:30,321 - root - INFO - 翻译和处理频道消息成功: **Kiev-backed terrorist cell t...
+2024-03-14 16:24:30,321 - root - INFO - 成功读取新闻哈希表，共47条新闻
+2024-03-14 16:24:30,586 - root - INFO - 成功写入新闻哈希值到日志: d60603f3dd300ee6765821909b5b1a5a
+2024-03-14 16:24:35,591 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 16:28:17,399 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 16:34:22,333 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-14 16:34:22,333 - root - INFO - 接收到信号: 10
+2024-03-14 16:34:22,333 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-14 16:34:26,167 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 16:34:26,168 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:34:34,792 - root - INFO - PID: 162344 has been recorded to file: log/process.pid
+2024-03-14 16:34:34,793 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:34:34,794 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 16:34:34,866 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:34:35,283 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69faea7dd0>
+2024-03-14 16:34:35,284 - root - INFO - 开始获取来源频道消息
+2024-03-14 16:34:35,285 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 16:34:35,397 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,397 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,397 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,397 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,397 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,397 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 16:34:35,397 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 16:34:35,399 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 16:34:35,508 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,509 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,509 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,509 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,509 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 16:34:35,509 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 16:34:35,510 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 16:34:35,510 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 16:34:35,511 - root - INFO - 没有新的消息需要上传
+2024-03-14 16:34:35,511 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 16:44:35,960 - root - INFO - 开始获取来源频道消息
+2024-03-14 16:44:35,961 - root - ERROR - 获取频道消息失败: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:44:35,961 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:44:55,982 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 16:44:55,982 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:44:55,984 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 16:44:55,984 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:44:55,985 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:45:16,005 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:45:16,006 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:45:36,026 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:45:36,027 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:45:56,047 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:45:56,048 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:46:16,051 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:46:16,052 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:46:36,071 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:46:36,072 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:46:56,092 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:46:56,093 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:47:16,094 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:47:16,095 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:47:36,115 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:47:36,116 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:47:56,136 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:47:56,137 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:48:16,147 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:48:16,148 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:48:36,168 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:48:36,169 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:48:56,190 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:48:56,190 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:49:16,211 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:49:16,211 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:49:36,232 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:49:36,233 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:49:56,251 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:49:56,252 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:50:16,272 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:50:16,273 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:50:36,293 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:50:36,294 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:50:56,314 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:50:56,315 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:51:16,335 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:51:16,336 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:51:36,356 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:51:36,357 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:51:56,377 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:51:56,378 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:52:16,395 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:52:16,396 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:52:36,415 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:52:36,416 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:52:56,437 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:52:56,437 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:53:16,455 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:53:16,456 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:53:36,476 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:53:36,477 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:53:56,497 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:53:56,498 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:54:16,518 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:54:16,519 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:54:36,539 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:54:36,541 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:54:56,551 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:54:56,552 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:55:16,572 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:55:16,573 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:55:36,593 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:55:36,594 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:55:56,614 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:55:56,614 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:56:16,635 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:56:16,635 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:56:36,656 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:56:36,656 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:56:56,677 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:56:56,677 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:57:16,698 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:57:16,698 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:57:36,719 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:57:36,719 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:57:56,740 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:57:56,740 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:58:16,751 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:58:16,752 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:58:36,772 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:58:36,773 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:58:56,779 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:58:56,780 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:59:16,799 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:59:16,800 - root - ERROR - 遇到错误，准备重启: While reading from 'config.ini' [line 37]: option 'channel_name' in section 'tg_News_sources' already exists
+2024-03-14 16:59:36,819 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:59:36,822 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 16:59:36,909 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:59:37,431 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa28a410>
+2024-03-14 16:59:37,431 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 16:59:57,435 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 16:59:57,436 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:59:57,439 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 16:59:57,439 - root - INFO - 开始创建telethon bot实例
+2024-03-14 16:59:57,440 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 16:59:57,519 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 16:59:57,968 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa46fb90>
+2024-03-14 16:59:57,968 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:00:17,989 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:17,989 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:17,991 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:00:17,992 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:00:17,993 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:18,065 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:18,500 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa291490>
+2024-03-14 17:00:18,500 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:00:38,521 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:38,521 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:38,523 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:00:38,523 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:00:38,525 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:38,604 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:39,105 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa441050>
+2024-03-14 17:00:39,106 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:00:59,123 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:59,124 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:59,126 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:00:59,126 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:00:59,127 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:00:59,200 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:00:59,617 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa298fd0>
+2024-03-14 17:00:59,618 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:01:19,623 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:01:19,624 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:01:19,626 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:01:19,626 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:01:19,628 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:01:19,699 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:01:20,178 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa544b10>
+2024-03-14 17:01:20,178 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:01:40,199 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:01:40,199 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:01:40,201 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:01:40,201 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:01:40,203 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:01:40,275 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:01:40,739 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f69fa298bd0>
+2024-03-14 17:01:40,740 - root - ERROR - 遇到错误，准备重启: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:01:48,969 - root - INFO - 接收到信号: 10
+2024-03-14 17:01:48,969 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-14 17:01:48,969 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-14 17:02:00,752 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:02:00,753 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:02:00,753 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:02:00,753 - telethon.network.mtprotosender - INFO - Disconnection from None complete!
+2024-03-14 17:02:00,758 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:02:00,758 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:35:45,865 - root - INFO - PID: 163270 has been recorded to file: log/process.pid
+2024-03-14 17:35:45,866 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:35:45,868 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:35:45,947 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:35:46,718 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f74c3837c90>
+2024-03-14 17:35:46,719 - root - INFO - 开始获取来源频道消息
+2024-03-14 17:35:46,720 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 17:35:46,858 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:35:46,858 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 17:35:46,858 - root - ERROR - 获取频道消息失败: No option 'channel_name' in section: 'tg_News_sources'
+2024-03-14 17:35:46,859 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 17:37:12,568 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-14 17:37:12,568 - root - INFO - 接收到信号: 10
+2024-03-14 17:37:12,568 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-14 17:37:16,931 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:37:16,932 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 17:37:16,932 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:37:16,932 - telethon.network.mtprotosender - INFO - Disconnection from None complete!
+2024-03-14 17:37:16,937 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:37:16,937 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 17:46:29,117 - root - INFO - PID: 163555 has been recorded to file: log/process.pid
+2024-03-14 17:46:29,118 - root - INFO - 开始创建telethon bot实例
+2024-03-14 17:46:29,120 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 17:46:29,199 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 17:46:29,647 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f03dfd36f50>
+2024-03-14 17:46:29,648 - root - INFO - 开始获取来源频道消息
+2024-03-14 17:46:29,650 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 17:46:29,764 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:46:29,764 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 17:46:29,766 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 17:46:29,875 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:46:30,770 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:30,772 - root - INFO - 翻译和处理频道消息成功: Vladimir Putin addresses Russi...
+2024-03-14 17:46:31,738 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:31,739 - root - INFO - 翻译和处理频道消息成功: Russian correspondents in the ...
+2024-03-14 17:46:32,145 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 17:46:32,146 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 17:46:32,146 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 17:46:32,146 - root - ERROR - 翻译失败: None, 400
+2024-03-14 17:46:32,558 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 17:46:32,559 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 17:46:32,559 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 17:46:32,559 - root - ERROR - 翻译失败: None, 400
+2024-03-14 17:46:33,054 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 17:46:33,055 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 17:46:33,055 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 17:46:33,056 - root - ERROR - 翻译失败: None, 400
+2024-03-14 17:46:33,056 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 17:46:33,060 - root - INFO - 成功读取新闻哈希表，共48条新闻
+2024-03-14 17:46:33,328 - root - INFO - 成功写入新闻哈希值到日志: d8fe812f77b3ec014619f482dcf7b802
+2024-03-14 17:46:38,535 - root - INFO - 成功写入新闻哈希值到日志: 3431c67b596caa2fe0c0530dd16f7e67
+2024-03-14 17:46:43,541 - root - INFO - 成功上传翻译后的消息到频道: 共2条
+2024-03-14 17:46:43,541 - root - INFO - 开始获取来源频道消息
+2024-03-14 17:46:43,542 - root - INFO - 成功读取新闻哈希表，共50条新闻
+2024-03-14 17:46:43,751 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:46:43,751 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 17:46:43,753 - root - INFO - 成功读取新闻哈希表，共50条新闻
+2024-03-14 17:46:43,869 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:46:46,233 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:46,234 - root - INFO - 翻译和处理频道消息成功: 关于这一不幸消息的更多详情
+2024-03-14 17:46:48,020 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:48,021 - root - INFO - 翻译和处理频道消息成功: 更多报道正在制作中 
+2024-03-14 17:46:49,629 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:49,630 - root - INFO - 翻译和处理频道消息成功: 欲知更多详情，请点击
+2024-03-14 17:46:52,277 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:52,278 - root - INFO - 翻译和处理频道消息成功: 更多详情
+2024-03-14 17:46:53,783 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:46:53,784 - root - INFO - 翻译和处理频道消息成功: 🚨Una profesora de la Escuela E...
+2024-03-14 17:46:53,784 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 17:46:53,787 - root - INFO - 成功读取新闻哈希表，共50条新闻
+2024-03-14 17:46:54,060 - root - INFO - 成功写入新闻哈希值到日志: fdc1114283d3045165da6ec26462d3f0
+2024-03-14 17:46:59,334 - root - INFO - 成功写入新闻哈希值到日志: ba92ca6a7025a724968f29a4e3164db3
+2024-03-14 17:47:04,627 - root - INFO - 成功写入新闻哈希值到日志: 9e6ed78af22432d4b8525cd311e2eb0c
+2024-03-14 17:47:09,842 - root - INFO - 成功写入新闻哈希值到日志: c25d3317d6f5f133df63b0fedd83b529
+2024-03-14 17:47:15,018 - root - INFO - 成功写入新闻哈希值到日志: 1400a545e37106d6cc9f2d599b9cc8f5
+2024-03-14 17:47:20,025 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 17:47:20,025 - root - INFO - 开始获取来源频道消息
+2024-03-14 17:47:20,027 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 17:47:20,237 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:47:20,237 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 17:47:20,238 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 17:47:20,370 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 17:47:21,643 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:47:21,644 - root - INFO - 翻译和处理频道消息成功: Slugs and snails to get 'image...
+2024-03-14 17:47:22,990 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:47:22,991 - root - INFO - 翻译和处理频道消息成功: AI weapons scanner backtracks ...
+2024-03-14 17:47:23,952 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:47:23,954 - root - INFO - 翻译和处理频道消息成功: 'Journalists are feeding the A...
+2024-03-14 17:47:25,312 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:47:25,314 - root - INFO - 翻译和处理频道消息成功: US House passes bill that coul...
+2024-03-14 17:47:26,287 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 17:47:26,288 - root - INFO - 翻译和处理频道消息成功: Watch: Musk and son visit Tesl...
+2024-03-14 17:47:26,288 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 17:47:26,292 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 17:47:26,293 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 17:47:31,393 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 17:47:41,404 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 17:47:56,420 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 17:48:16,432 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 17:48:41,539 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 17:49:11,565 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 17:49:46,677 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 17:50:26,718 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 17:51:11,856 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb84110> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 17:52:01,889 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Watch: Musk and son visit Tesla plant after fire
+
+[Read more...](https://www.bbc.co.uk/news/world-europe-68558161) 
+A far-left activist group took responsibility for the fire, which left the plant without power for nearly a week.
+Published Via @BBCScienceTech
+2024-03-14 17:52:01,890 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 17:52:01,981 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 17:52:06,985 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 17:52:16,992 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 17:52:32,102 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 17:52:52,122 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 17:53:17,148 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 17:53:47,304 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 17:54:22,308 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 17:55:02,451 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 17:55:47,562 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfb85c90> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 17:56:37,571 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: US House passes bill that could ban TikTok nationwide
+
+[Read more...](https://www.bbc.co.uk/news/world-us-canada-68556540) 
+The bill would force a Chinese tech giant to sell its stake in the app, but its fate in the Senate is unclear.
+Published Via @BBCScienceTech
+2024-03-14 17:56:37,572 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 17:56:37,666 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 17:56:42,672 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 17:56:52,682 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 17:57:07,698 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 17:57:27,719 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 17:57:52,818 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 17:58:22,849 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 17:58:57,947 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 17:59:38,136 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:00:23,182 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe2bd0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:01:13,226 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: 'Journalists are feeding the AI hype machine'
+
+[Read more...](https://www.bbc.co.uk/news/business-68488924) 
+AI reporters and experts discuss how well or otherwise the media covers the topic.
+Published Via @BBCScienceTech
+2024-03-14 18:01:13,227 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:01:13,324 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:01:18,328 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:01:28,338 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:01:29,660 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 18:01:43,447 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:02:03,456 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:02:28,482 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:02:58,580 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:03:33,685 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:04:13,726 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:04:58,851 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe0150> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:05:48,871 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: AI weapons scanner backtracks on UK testing claims
+
+[Read more...](https://www.bbc.co.uk/news/technology-68547574) 
+Evolv Technology has been asked to change claims its technology has been tested by the government.
+Published Via @BBCScienceTech
+2024-03-14 18:05:48,872 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:05:48,975 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:05:53,980 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:06:03,991 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:06:19,007 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:06:39,136 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:07:04,162 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:07:34,261 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:08:09,297 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:08:49,455 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:09:34,555 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd37b10> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:10:24,605 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Slugs and snails to get 'image makeover'
+
+[Read more...](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68539052) 
+The Herts and Middlesex Wildlife Trust says the scourge of gardeners are "nature's clean-up crew".
+Published Via @BBCScienceTech
+2024-03-14 18:10:24,606 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:10:24,606 - root - INFO - 没有新的消息需要上传
+2024-03-14 18:10:24,606 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 18:10:24,607 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:10:24,608 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:10:24,938 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:10:24,938 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:10:24,939 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:10:25,107 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:10:26,149 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:10:26,150 - root - INFO - 翻译和处理频道消息成功:  万宝路公司以 22 亿美元出售百威啤酒所有者的股份 
+2024-03-14 18:10:27,151 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:10:27,152 - root - INFO - 翻译和处理频道消息成功:  祖马--南非民调中的政治通配符 
+2024-03-14 18:10:28,690 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:10:28,691 - root - INFO - 翻译和处理频道消息成功:  每天都感觉像是永恒" - 获释的以色列人质 
+2024-03-14 18:10:29,931 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:10:29,932 - root - INFO - 翻译和处理频道消息成功:  亨特-拜登联邦枪支指控审判定于 6 月 
+2024-03-14 18:10:31,247 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:10:31,248 - root - INFO - 翻译和处理频道消息成功:  罗森伯格俄罗斯操纵选举 
+2024-03-14 18:10:31,248 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:10:31,249 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:10:31,370 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:10:36,376 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:10:46,386 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:11:01,400 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:11:21,421 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:11:46,537 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:12:16,568 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:12:51,683 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:13:31,787 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:14:16,833 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbfb8d0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:15:06,871 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Rosenberg: Russia's stage-managed election **
+
+ In Borovsk, Steve Rosenberg looks at the Russia Putin wants you to see - and Russia in reality.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/world-europe-68543919%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 18:15:06,873 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:15:06,969 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:15:11,975 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:15:21,986 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:15:37,129 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:15:57,150 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:16:22,176 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:16:52,287 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:17:27,323 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:18:07,456 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:18:52,576 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d790> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:19:42,590 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Hunter Biden federal gun charges trial set for June **
+
+ The president's son could face trial this summer as long as a judge refuses a motion to dismiss.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/world-us-canada-68560774%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 18:19:42,591 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:19:42,731 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:19:47,737 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:19:57,748 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:20:12,751 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:20:32,848 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:20:57,872 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:21:27,891 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:22:03,020 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:22:43,188 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:23:28,234 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f150> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:24:18,283 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** 'Every day felt like an eternity' - freed Israeli hostage **
+
+ Itay Regev was kidnapped from the Nova music festival along with his sister and a friend.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/world-middle-east-68561634%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 18:24:18,284 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:24:18,381 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:24:23,387 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:24:33,486 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:24:48,502 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:25:08,523 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:25:33,627 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:26:03,658 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:26:38,779 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:27:18,820 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:28:03,948 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f4d0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:28:53,959 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Zuma - the political wildcard in South Africa's poll **
+
+ The disgraced ex-president has ditched the ANC, spelling danger for the party that ended apartheid.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/world-africa-68536285%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 18:28:53,960 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:28:54,082 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:28:59,088 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:29:09,098 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:29:24,114 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:29:44,217 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:30:09,243 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:30:39,399 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:31:14,435 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:31:54,606 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:32:39,736 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5fe90> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:33:29,750 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Marlboro firm sells $2.2bn stake in Bud Light owner **
+
+ Bud Light sales were hit after a US boycott over its work with transgender influencer Dylan Mulvaney.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/business-68561614%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 18:33:29,751 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:33:29,751 - root - INFO - 没有新的消息需要上传
+2024-03-14 18:33:29,751 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 18:33:29,752 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:33:29,753 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:33:30,031 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:33:30,031 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:33:30,032 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:33:30,214 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:33:31,577 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:33:31,578 - root - INFO - 翻译和处理频道消息成功: 以色列允许援助直接进入加沙北部，为更多援助带来希望
+2024-03-14 18:33:32,946 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:33:32,947 - root - INFO - 翻译和处理频道消息成功: 普京在选前信息中对核战争的态度不再那么强硬
+2024-03-14 18:33:34,444 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:33:34,445 - root - INFO - 翻译和处理频道消息成功: 第一艘援助船驶向加沙，但需要更多援助
+2024-03-14 18:33:35,592 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:33:35,593 - root - INFO - 翻译和处理频道消息成功: 乌克兰支持的俄罗斯流亡组织在莫斯科的地盘上发动袭击
+2024-03-14 18:33:37,463 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:33:37,463 - root - INFO - 翻译和处理频道消息成功: 情报报告称，内塔尼亚胡的联盟 "可能岌岌可危 "
+2024-03-14 18:33:37,464 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:33:37,467 - root - INFO - 成功读取新闻哈希表，共55条新闻
+2024-03-14 18:33:37,752 - root - INFO - 成功写入新闻哈希值到日志: 90b7b7b9a14aa82e08e0a744fb927de2
+2024-03-14 18:33:42,932 - root - INFO - 成功写入新闻哈希值到日志: c7e5c059415dbe4b736df801d068d54f
+2024-03-14 18:33:48,164 - root - INFO - 成功写入新闻哈希值到日志: 6b2e0762805c580ed6e87fa59cb673da
+2024-03-14 18:33:53,340 - root - INFO - 成功写入新闻哈希值到日志: 475a52c657eceaaecb4070b1e8426639
+2024-03-14 18:33:58,524 - root - INFO - 成功写入新闻哈希值到日志: 76898395285f2d7283453c226adbde7b
+2024-03-14 18:34:03,530 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 18:34:03,530 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:34:03,531 - root - INFO - 成功读取新闻哈希表，共60条新闻
+2024-03-14 18:34:03,741 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:34:03,741 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:34:03,742 - root - INFO - 成功读取新闻哈希表，共60条新闻
+2024-03-14 18:34:03,856 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:34:05,156 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:05,157 - root - INFO - 翻译和处理频道消息成功: Australia is grappling with a ...
+2024-03-14 18:34:06,409 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:06,410 - root - INFO - 翻译和处理频道消息成功: 加密货币领域的大动作：
+2024-03-14 18:34:07,862 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:07,863 - root - INFO - 翻译和处理频道消息成功: Donald Trump clinches the Repu...
+2024-03-14 18:34:09,913 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:09,914 - root - INFO - 翻译和处理频道消息成功: 从银行家到总统：
+2024-03-14 18:34:10,990 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:10,991 - root - INFO - 翻译和处理频道消息成功: 股票大涨：
+2024-03-14 18:34:10,991 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:34:10,994 - root - INFO - 成功读取新闻哈希表，共60条新闻
+2024-03-14 18:34:11,177 - root - INFO - 成功写入新闻哈希值到日志: 7fee48994ef8a1e5950f6ee30fa03550
+2024-03-14 18:34:16,376 - root - INFO - 成功写入新闻哈希值到日志: 05389d2cb12282653ce205e599b72afa
+2024-03-14 18:34:21,555 - root - INFO - 成功写入新闻哈希值到日志: 2a56fb77342c289b9779475b5ffa922e
+2024-03-14 18:34:26,761 - root - INFO - 成功写入新闻哈希值到日志: 97c92ada1ab2de7ec453d1ab7dc3e2e1
+2024-03-14 18:34:32,024 - root - INFO - 成功写入新闻哈希值到日志: e04667387e9c0beef89427afb2aa7bcc
+2024-03-14 18:34:37,029 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 18:34:37,030 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:34:37,031 - root - INFO - 成功读取新闻哈希表，共65条新闻
+2024-03-14 18:34:37,238 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:34:37,238 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:34:37,240 - root - INFO - 成功读取新闻哈希表，共65条新闻
+2024-03-14 18:34:37,348 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:34:38,749 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:38,750 - root - INFO - 翻译和处理频道消息成功: 不可靠的信任将印度顶级企业与莫迪的竞选资金联系在一起
+2024-03-14 18:34:40,525 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:40,526 - root - INFO - 翻译和处理频道消息成功: 波音公司举报人被发现死于自杀
+2024-03-14 18:34:41,875 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:41,876 - root - INFO - 翻译和处理频道消息成功: ，新西兰将扣押拉美航空波音 787 的黑匣子
+2024-03-14 18:34:43,332 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:43,333 - root - INFO - 翻译和处理频道消息成功: **Trump won't give money to Uk...
+2024-03-14 18:34:44,417 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:34:44,418 - root - INFO - 翻译和处理频道消息成功: 教皇说乌克兰应该有谈判 "白旗的勇气 "
+2024-03-14 18:34:44,418 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:34:44,419 - root - INFO - 成功读取新闻哈希表，共65条新闻
+2024-03-14 18:34:44,600 - root - INFO - 成功写入新闻哈希值到日志: 0612bd841b2fca4fdf3890c2dab52ab9
+2024-03-14 18:34:49,778 - root - INFO - 成功写入新闻哈希值到日志: 4861d63b6bd180512f439ca98dce7013
+2024-03-14 18:34:54,955 - root - INFO - 成功写入新闻哈希值到日志: 828338334acdc30ae14274648acd0cc6
+2024-03-14 18:35:00,151 - root - INFO - 成功写入新闻哈希值到日志: 42d75be1ad28c12f415b8129f7a3965d
+2024-03-14 18:35:05,355 - root - INFO - 成功写入新闻哈希值到日志: f237055f325b240577e0846b368c4a9f
+2024-03-14 18:35:10,361 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 18:45:10,848 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:45:10,850 - root - INFO - 成功读取新闻哈希表，共70条新闻
+2024-03-14 18:45:10,979 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:45:10,979 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:45:10,980 - root - INFO - 成功读取新闻哈希表，共70条新闻
+2024-03-14 18:45:11,108 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:45:12,469 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:12,470 - root - INFO - 翻译和处理频道消息成功: **Building under construction ...
+2024-03-14 18:45:15,371 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:15,373 - root - INFO - 翻译和处理频道消息成功: ⚡️ **Russian military successf...
+2024-03-14 18:45:16,645 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:16,646 - root - INFO - 翻译和处理频道消息成功: **Kiev's agents caught trying ...
+2024-03-14 18:45:18,125 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:18,126 - root - INFO - 翻译和处理频道消息成功: **Elon Musk tears former CNN h...
+2024-03-14 18:45:19,794 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:19,795 - root - INFO - 翻译和处理频道消息成功: MoD footage: Russian Ka-52 cho...
+2024-03-14 18:45:19,795 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:45:19,796 - root - INFO - 成功读取新闻哈希表，共70条新闻
+2024-03-14 18:45:20,114 - root - INFO - 成功写入新闻哈希值到日志: b7a3d80dac283a93b2531a80cc208616
+2024-03-14 18:45:25,330 - root - INFO - 成功写入新闻哈希值到日志: 5d53ea29da0dd2ef213fe95283e88922
+2024-03-14 18:45:30,514 - root - INFO - 成功写入新闻哈希值到日志: 15bd4d5d5d395732633ea8444686a650
+2024-03-14 18:45:35,777 - root - INFO - 成功写入新闻哈希值到日志: a35690577e22ba8f644b82bd39040cd2
+2024-03-14 18:45:40,942 - root - INFO - 成功写入新闻哈希值到日志: d32ead83494082f97a9a575ea730be75
+2024-03-14 18:45:45,948 - root - INFO - 成功上传翻译后的消息到频道: 共5条
+2024-03-14 18:45:45,948 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:45:45,950 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:46,108 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,109 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,109 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,109 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,109 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,109 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 18:45:46,109 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:45:46,111 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:46,220 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,220 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,220 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,220 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,220 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 18:45:46,220 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 18:45:46,220 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:45:46,221 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:46,221 - root - INFO - 没有新的消息需要上传
+2024-03-14 18:45:46,222 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 18:45:46,222 - root - INFO - 开始获取来源频道消息
+2024-03-14 18:45:46,223 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:46,328 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:45:46,328 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 18:45:46,329 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:46,437 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 18:45:47,406 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:47,407 - root - INFO - 翻译和处理频道消息成功: Slugs and snails to get 'image...
+2024-03-14 18:45:48,561 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:48,562 - root - INFO - 翻译和处理频道消息成功: AI weapons scanner backtracks ...
+2024-03-14 18:45:49,498 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:49,499 - root - INFO - 翻译和处理频道消息成功: 'Journalists are feeding the A...
+2024-03-14 18:45:50,461 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:50,462 - root - INFO - 翻译和处理频道消息成功: US House passes bill that coul...
+2024-03-14 18:45:51,775 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 18:45:51,776 - root - INFO - 翻译和处理频道消息成功: Watch: Musk and son visit Tesl...
+2024-03-14 18:45:51,776 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 18:45:51,780 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 18:45:51,781 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:45:56,787 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:46:06,792 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:46:21,796 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:46:30,120 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 18:46:41,901 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:47:06,924 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:47:37,029 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:48:12,064 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:48:52,187 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:49:37,286 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbcb490> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:50:27,335 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Watch: Musk and son visit Tesla plant after fire
+
+[Read more...](https://www.bbc.co.uk/news/world-europe-68558161) 
+A far-left activist group took responsibility for the fire, which left the plant without power for nearly a week.
+Published Via @BBCScienceTech
+2024-03-14 18:50:27,336 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:50:27,337 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:50:32,466 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:50:42,477 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:50:57,492 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:51:17,512 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:51:42,703 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:52:12,732 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:52:47,829 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:53:27,832 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:54:12,977 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc9c90> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:55:03,010 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: US House passes bill that could ban TikTok nationwide
+
+[Read more...](https://www.bbc.co.uk/news/world-us-canada-68556540) 
+The bill would force a Chinese tech giant to sell its stake in the app, but its fate in the Senate is unclear.
+Published Via @BBCScienceTech
+2024-03-14 18:55:03,011 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:55:03,164 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:55:08,168 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:55:18,176 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 18:55:33,274 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 18:55:53,276 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 18:56:18,292 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 18:56:48,415 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 18:57:23,450 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 18:58:03,545 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 18:58:48,643 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbc8e90> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 18:59:38,647 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: 'Journalists are feeding the AI hype machine'
+
+[Read more...](https://www.bbc.co.uk/news/business-68488924) 
+AI reporters and experts discuss how well or otherwise the media covers the topic.
+Published Via @BBCScienceTech
+2024-03-14 18:59:38,648 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 18:59:38,740 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 18:59:43,744 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 18:59:53,754 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:00:08,756 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:00:28,760 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:00:53,856 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:01:23,886 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:01:59,009 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:02:39,112 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:03:24,158 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd2b850> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:04:14,183 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: AI weapons scanner backtracks on UK testing claims
+
+[Read more...](https://www.bbc.co.uk/news/technology-68547574) 
+Evolv Technology has been asked to change claims its technology has been tested by the government.
+Published Via @BBCScienceTech
+2024-03-14 19:04:14,184 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:04:14,279 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:04:19,284 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:04:29,292 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:04:44,394 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:05:04,415 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:05:29,440 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:05:59,580 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:06:34,677 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:07:14,716 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:07:59,838 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbe8450> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:08:49,855 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Slugs and snails to get 'image makeover'
+
+[Read more...](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68539052) 
+The Herts and Middlesex Wildlife Trust says the scourge of gardeners are "nature's clean-up crew".
+Published Via @BBCScienceTech
+2024-03-14 19:08:49,856 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:08:49,856 - root - INFO - 没有新的消息需要上传
+2024-03-14 19:08:49,856 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 19:08:49,856 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:08:49,858 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 19:08:49,980 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 19:08:49,980 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:08:49,981 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 19:08:50,129 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 19:08:51,143 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:08:51,144 - root - INFO - 翻译和处理频道消息成功:  数百人从菲律宾爱情诈骗中心获救 
+2024-03-14 19:08:52,744 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:08:52,745 - root - INFO - 翻译和处理频道消息成功:  日本法院再次裁定同性婚姻禁令违法 
+2024-03-14 19:08:53,700 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:08:53,700 - root - INFO - 翻译和处理频道消息成功: Glastonbury Festival 2024 line...
+2024-03-14 19:08:55,114 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:08:55,115 - root - INFO - 翻译和处理频道消息成功: TikTok CEO vows to ‘keep fight...
+2024-03-14 19:08:56,130 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:08:56,131 - root - INFO - 翻译和处理频道消息成功:  万宝路公司以 22 亿美元出售百威啤酒所有者的股份 
+2024-03-14 19:08:56,131 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:08:56,132 - root - INFO - 成功读取新闻哈希表，共75条新闻
+2024-03-14 19:08:56,229 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:09:01,235 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:09:11,246 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:09:26,248 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:09:46,370 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:10:11,392 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:10:41,497 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:11:16,500 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:11:56,620 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:12:41,726 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd3350> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:13:31,728 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Marlboro firm sells $2.2bn stake in Bud Light owner **
+
+ Bud Light sales were hit after a US boycott over its work with transgender influencer Dylan Mulvaney.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/business-68561614%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 19:13:31,729 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:13:31,819 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:13:36,824 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:13:46,835 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:14:01,848 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:14:21,869 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:14:46,971 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:15:17,002 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:15:52,119 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:16:32,217 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:17:17,225 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd05d0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:18:07,255 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: TikTok CEO vows to ‘keep fighting’ after US House passes bill to ban app | BBC News 
+
+[▶️ View on YouTube](https://youtu.be/8PA08j_wDBM%20) 
+
+
+Published via @BBCWorldoffl
+.
+2024-03-14 19:18:07,256 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:18:07,372 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:18:12,376 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:18:22,386 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:18:37,484 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:18:57,504 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:19:22,528 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:19:52,668 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:20:27,704 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:21:07,822 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:21:52,940 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd1450> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:22:42,943 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Glastonbury Festival 2024 line-up revealed. #Shorts #GlastonburyFestival #BBCNews 
+
+[▶️ View on YouTube](https://youtu.be/4bQhCllZ8kA%20) 
+
+
+Published via @BBCWorldoffl
+.
+2024-03-14 19:22:42,944 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:22:43,082 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:22:48,084 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:22:58,092 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:23:13,108 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:23:33,259 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:23:58,284 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:24:28,292 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:25:03,419 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:25:43,519 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:26:28,565 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfc11cd0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:27:18,611 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: ** Japan courts again say same-sex marriage ban is illegal **
+
+ LGBT+ activists hail the legal win but say real reform is still up to a conservative legislature.
+
+[ 📰 READ MORE... ](https://www.bbc.co.uk/news/world%20)
+
+PUBLISHED via @BBCWorldoffl 
+.
+2024-03-14 19:27:18,612 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:27:18,906 - root - INFO - 成功写入新闻哈希值到日志: c6f46c656a254e0c642c52d22d9d0181
+2024-03-14 19:27:23,912 - root - INFO - 成功上传翻译后的消息到频道: 共1条
+2024-03-14 19:27:23,912 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:27:23,913 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,091 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,092 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,092 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,092 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:27:24,093 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,268 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,269 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,269 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,269 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:27:24,270 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,270 - root - INFO - 没有新的消息需要上传
+2024-03-14 19:27:24,270 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 19:27:24,270 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:27:24,271 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,411 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,411 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,412 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,412 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,412 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,412 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,413 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:27:24,414 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,533 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,533 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,533 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,533 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,534 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,534 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,534 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:27:24,535 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,535 - root - INFO - 没有新的消息需要上传
+2024-03-14 19:27:24,535 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 19:27:24,535 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:27:24,536 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,670 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,671 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,671 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,671 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,671 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,671 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,671 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:27:24,673 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,800 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,800 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,800 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,800 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,800 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:27:24,801 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:27:24,801 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:27:24,801 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:27:24,802 - root - INFO - 没有新的消息需要上传
+2024-03-14 19:27:24,802 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 19:31:30,583 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 19:37:25,211 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:37:25,213 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:37:25,408 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:25,408 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:25,408 - root - INFO - 成功获取了有效频道消息3条
+2024-03-14 19:37:25,408 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:37:25,409 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:37:25,529 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:25,529 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:25,529 - root - INFO - 成功获取了有效频道消息3条
+2024-03-14 19:37:26,419 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:26,420 - root - INFO - 翻译和处理频道消息成功: Israeli fighter jets conduct s...
+2024-03-14 19:37:27,465 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:27,466 - root - INFO - 翻译和处理频道消息成功: **Islamic Resistance in Iraq c...
+2024-03-14 19:37:28,823 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:28,823 - root - INFO - 翻译和处理频道消息成功: ⚡️ **Russian military successf...
+2024-03-14 19:37:28,824 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:37:28,824 - root - INFO - 成功读取新闻哈希表，共76条新闻
+2024-03-14 19:37:29,120 - root - INFO - 成功写入新闻哈希值到日志: 4f44311dbc6d95085696aad10474f429
+2024-03-14 19:37:34,421 - root - INFO - 成功写入新闻哈希值到日志: 384fd03b2a8949ea7ac050e59b1e9de7
+2024-03-14 19:37:39,662 - root - INFO - 成功写入新闻哈希值到日志: 3a41173f074ad524ee2e699a32ffb3e1
+2024-03-14 19:37:44,667 - root - INFO - 成功上传翻译后的消息到频道: 共3条
+2024-03-14 19:37:44,668 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:37:44,669 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:44,789 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,789 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,789 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,790 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,790 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,790 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:37:44,790 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:37:44,791 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:44,909 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,909 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,909 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,909 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,910 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 19:37:44,910 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 19:37:44,910 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:37:44,911 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:44,911 - root - INFO - 没有新的消息需要上传
+2024-03-14 19:37:44,911 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 19:37:44,911 - root - INFO - 开始获取来源频道消息
+2024-03-14 19:37:44,912 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:45,059 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 19:37:45,059 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 19:37:45,060 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:45,170 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 19:37:46,249 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:46,249 - root - INFO - 翻译和处理频道消息成功: Slugs and snails to get 'image...
+2024-03-14 19:37:47,926 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:47,927 - root - INFO - 翻译和处理频道消息成功: AI weapons scanner backtracks ...
+2024-03-14 19:37:48,868 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:48,869 - root - INFO - 翻译和处理频道消息成功: 'Journalists are feeding the A...
+2024-03-14 19:37:49,824 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:49,825 - root - INFO - 翻译和处理频道消息成功: US House passes bill that coul...
+2024-03-14 19:37:51,186 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 19:37:51,187 - root - INFO - 翻译和处理频道消息成功: Watch: Musk and son visit Tesl...
+2024-03-14 19:37:51,187 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 19:37:51,188 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 19:37:51,188 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:37:56,194 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:38:06,200 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:38:21,204 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:38:41,398 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:39:06,400 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:39:36,516 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:40:11,544 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:40:51,656 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:41:36,849 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbedcd0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:42:26,895 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Watch: Musk and son visit Tesla plant after fire
+
+[Read more...](https://www.bbc.co.uk/news/world-europe-68558161) 
+A far-left activist group took responsibility for the fire, which left the plant without power for nearly a week.
+Published Via @BBCScienceTech
+2024-03-14 19:42:26,896 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:42:26,897 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:42:31,992 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:42:42,000 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:42:57,012 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:43:17,016 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:43:42,160 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:44:12,188 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:44:47,307 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:45:27,344 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:46:12,489 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5d810> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:46:30,801 - telethon.client.updates - INFO - Got difference for account updates
+2024-03-14 19:47:02,511 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: US House passes bill that could ban TikTok nationwide
+
+[Read more...](https://www.bbc.co.uk/news/world-us-canada-68556540) 
+The bill would force a Chinese tech giant to sell its stake in the app, but its fate in the Senate is unclear.
+Published Via @BBCScienceTech
+2024-03-14 19:47:02,512 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:47:02,605 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:47:07,608 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:47:17,618 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:47:32,714 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:47:52,732 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:48:17,740 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:48:47,852 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:49:22,888 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:50:03,016 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:50:48,149 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfd5f3d0> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:51:38,155 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: 'Journalists are feeding the AI hype machine'
+
+[Read more...](https://www.bbc.co.uk/news/business-68488924) 
+AI reporters and experts discuss how well or otherwise the media covers the topic.
+Published Via @BBCScienceTech
+2024-03-14 19:51:38,156 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:51:38,248 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:51:43,252 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:51:53,262 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:52:08,276 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:52:28,280 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:52:53,389 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:53:23,420 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:53:58,538 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:54:38,635 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:55:23,656 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbeb850> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 19:56:13,679 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: AI weapons scanner backtracks on UK testing claims
+
+[Read more...](https://www.bbc.co.uk/news/technology-68547574) 
+Evolv Technology has been asked to change claims its technology has been tested by the government.
+Published Via @BBCScienceTech
+2024-03-14 19:56:13,680 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 19:56:13,780 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 1
+2024-03-14 19:56:18,786 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 2
+2024-03-14 19:56:28,796 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 3
+2024-03-14 19:56:43,894 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 4
+2024-03-14 19:57:03,896 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 5
+2024-03-14 19:57:28,920 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 6
+2024-03-14 19:57:59,039 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 7
+2024-03-14 19:58:34,204 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 8
+2024-03-14 19:59:14,244 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 9
+2024-03-14 19:59:59,373 - root - ERROR - An error occurred: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x7f03dfbd2450> as file. Exception type: TypeError. Attempt: 10
+2024-03-14 20:00:03,050 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-14 20:00:03,050 - root - INFO - 接收到信号: 10
+2024-03-14 20:00:03,050 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-14 20:00:31,151 - telethon.network.mtprotosender - INFO - Disconnecting from 91.108.56.200:443/TcpFull...
+2024-03-14 20:00:31,152 - telethon.network.mtprotosender - INFO - Disconnection from 91.108.56.200:443/TcpFull complete!
+2024-03-14 20:00:31,154 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 20:00:31,344 - root - INFO - 进程终止信号已发送给主程序...
+2024-03-14 20:00:31,344 - root - INFO - 接收到信号: 10
+2024-03-14 20:00:31,344 - root - INFO - 接收到终止进程信号，调用BotRunner类的stop_instance()方法停止进程
+2024-03-14 20:00:49,391 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-03-14 20:00:49,394 - root - ERROR - 程序出现未捕获的异常: Failed to send message after retries: Slugs and snails to get 'image makeover'
+
+[Read more...](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-68539052) 
+The Herts and Middlesex Wildlife Trust says the scourge of gardeners are "nature's clean-up crew".
+Published Via @BBCScienceTech
+2024-03-14 20:00:49,395 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 20:00:49,395 - root - INFO - 没有新的消息需要上传
+2024-03-14 20:00:49,395 - root - INFO - 成功上传翻译后的消息到频道: 共0条
+2024-03-14 20:00:49,395 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:00:49,397 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:00:49,397 - root - ERROR - 程序出现未捕获的异常: 获取频道消息失败: Cannot send requests while disconnected
+2024-03-14 20:00:49,397 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 20:00:49,397 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:00:49,399 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:00:49,399 - root - ERROR - 程序出现未捕获的异常: 获取频道消息失败: Cannot send requests while disconnected
+2024-03-14 20:00:49,399 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 20:00:49,399 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:00:49,400 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:00:49,401 - root - ERROR - 程序出现未捕获的异常: 获取频道消息失败: Cannot send requests while disconnected
+2024-03-14 20:00:49,401 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 20:00:49,401 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:00:49,402 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:00:49,402 - root - ERROR - 程序出现未捕获的异常: 获取频道消息失败: Cannot send requests while disconnected
+2024-03-14 20:00:49,403 - root - ERROR - 发送报错消息时出错: MessageMethods.send_message() got an unexpected keyword argument 'chat_id'
+2024-03-14 20:00:49,403 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-03-14 20:00:49,405 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 20:00:49,405 - root - INFO - Telegram-telethon bot连接断开
+2024-03-14 20:02:54,026 - root - INFO - PID: 166089 has been recorded to file: log/process.pid
+2024-03-14 20:02:54,027 - root - INFO - 开始创建telethon bot实例
+2024-03-14 20:02:54,029 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.200:443/TcpFull...
+2024-03-14 20:02:54,109 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.200:443/TcpFull complete!
+2024-03-14 20:02:54,560 - root - INFO - Telegram-telethon bot实例化成功: <telethon.client.telegramclient.TelegramClient object at 0x7f8727b4e610>
+2024-03-14 20:02:54,561 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:02:54,563 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:02:54,675 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:02:54,676 - root - INFO - 成功获取了有效频道消息4条
+2024-03-14 20:02:54,676 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:02:55,465 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 20:02:55,466 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 20:02:55,466 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 20:02:55,466 - root - ERROR - 翻译失败: None, 400
+2024-03-14 20:02:55,897 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 20:02:55,898 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 20:02:55,898 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 20:02:55,898 - root - ERROR - 翻译失败: None, 400
+2024-03-14 20:02:56,839 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:02:56,840 - root - INFO - 翻译和处理频道消息成功: **Turkish training jet crashes...
+2024-03-14 20:02:58,161 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:02:58,162 - root - INFO - 翻译和处理频道消息成功: ❗️**German parliament rejects ...
+2024-03-14 20:02:58,162 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:02:58,163 - root - INFO - 成功读取新闻哈希表，共79条新闻
+2024-03-14 20:02:58,520 - root - INFO - 成功写入新闻哈希值到日志: 85aedef1b8caa40c3a941813bcc7f4fa
+2024-03-14 20:03:03,710 - root - INFO - 成功写入新闻哈希值到日志: 75ae192c522e7d1821ffc3d74042a2a7
+2024-03-14 20:03:08,716 - root - INFO - 成功上传翻译后的消息到rtnews_unc3频道: 共2条
+2024-03-14 20:03:08,716 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:03:08,717 - root - INFO - 成功读取新闻哈希表，共81条新闻
+2024-03-14 20:03:08,839 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:08,840 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:08,840 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:08,840 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:08,840 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:08,840 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:03:08,840 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:03:08,840 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:03:08,841 - root - INFO - 成功读取新闻哈希表，共81条新闻
+2024-03-14 20:03:08,841 - root - INFO - cnnee频道没有新的消息需要上传
+2024-03-14 20:03:08,842 - root - INFO - 成功上传翻译后的消息到cnnee频道: 共0条
+2024-03-14 20:03:08,842 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:03:08,843 - root - INFO - 成功读取新闻哈希表，共81条新闻
+2024-03-14 20:03:08,968 - root - INFO - 成功获取了有效频道消息5条
+2024-03-14 20:03:08,968 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:03:10,282 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:10,283 - root - INFO - 翻译和处理频道消息成功: Slugs and snails to get 'image...
+2024-03-14 20:03:14,423 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:14,424 - root - INFO - 翻译和处理频道消息成功: AI weapons scanner backtracks ...
+2024-03-14 20:03:15,492 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:15,493 - root - INFO - 翻译和处理频道消息成功: 'Journalists are feeding the A...
+2024-03-14 20:03:16,894 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:16,895 - root - INFO - 翻译和处理频道消息成功: US House passes bill that coul...
+2024-03-14 20:03:18,364 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:18,364 - root - INFO - 翻译和处理频道消息成功: Watch: Musk and son visit Tesl...
+2024-03-14 20:03:18,365 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:03:18,365 - root - INFO - 成功读取新闻哈希表，共81条新闻
+2024-03-14 20:03:18,629 - root - INFO - 成功写入新闻哈希值到日志: bd92530e3b8fb66ea2c269268aed79f4
+2024-03-14 20:03:23,810 - root - INFO - 成功写入新闻哈希值到日志: 887d51b6a87e7d37dcb2b94005478a0e
+2024-03-14 20:03:29,020 - root - INFO - 成功写入新闻哈希值到日志: 9093b787670f674a8a63b4f3aaae6cd1
+2024-03-14 20:03:34,251 - root - INFO - 成功写入新闻哈希值到日志: 9cf4d94ad9ecf256663e7e09ae61a3ce
+2024-03-14 20:03:39,449 - root - INFO - 成功写入新闻哈希值到日志: 821e48071d4d31933cb3e181b986ea4d
+2024-03-14 20:03:44,456 - root - INFO - 成功上传翻译后的消息到BBCScienceTech频道: 共5条
+2024-03-14 20:03:44,456 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:03:44,458 - root - INFO - 成功读取新闻哈希表，共86条新闻
+2024-03-14 20:03:44,571 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:03:44,572 - root - INFO - 成功获取了有效频道消息4条
+2024-03-14 20:03:44,572 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:03:45,571 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:45,572 - root - INFO - 翻译和处理频道消息成功:  日本法院再次裁定同性婚姻禁令违法 
+2024-03-14 20:03:46,565 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:46,566 - root - INFO - 翻译和处理频道消息成功: Glastonbury Festival 2024 line...
+2024-03-14 20:03:47,603 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:47,604 - root - INFO - 翻译和处理频道消息成功: TikTok CEO vows to ‘keep fight...
+2024-03-14 20:03:48,663 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 200 OK"
+2024-03-14 20:03:48,664 - root - INFO - 翻译和处理频道消息成功:  万宝路公司以 22 亿美元出售百威啤酒所有者的股份 
+2024-03-14 20:03:48,664 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:03:48,665 - root - INFO - 成功读取新闻哈希表，共86条新闻
+2024-03-14 20:03:48,865 - root - INFO - 成功写入新闻哈希值到日志: a168aed4397b334927d3e6d793a7f8a2
+2024-03-14 20:03:54,055 - root - INFO - 成功写入新闻哈希值到日志: 9b6332962cc678a039877f846a4284c5
+2024-03-14 20:03:59,357 - root - INFO - 成功写入新闻哈希值到日志: beb72621c65a59c08c8163e7bd9cf0a0
+2024-03-14 20:04:04,554 - root - INFO - 成功写入新闻哈希值到日志: f57d921ef4f973fac80682b5acdf52fe
+2024-03-14 20:04:09,560 - root - INFO - 成功上传翻译后的消息到BBCWorldoffl频道: 共4条
+2024-03-14 20:04:09,561 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:04:09,562 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,677 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,678 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,678 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,678 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,678 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,678 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:04:09,678 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:04:09,678 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:04:09,679 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,679 - root - INFO - nytimes频道没有新的消息需要上传
+2024-03-14 20:04:09,680 - root - INFO - 成功上传翻译后的消息到nytimes频道: 共0条
+2024-03-14 20:04:09,680 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:04:09,681 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,795 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,796 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,796 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,796 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,796 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,796 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:04:09,797 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:04:09,797 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:04:09,798 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,798 - root - INFO - bloomberg频道没有新的消息需要上传
+2024-03-14 20:04:09,798 - root - INFO - 成功上传翻译后的消息到bloomberg频道: 共0条
+2024-03-14 20:04:09,798 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:04:09,799 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,915 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,915 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,916 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,916 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,916 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:04:09,916 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:04:09,916 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:04:09,916 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:04:09,917 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:04:09,917 - root - INFO - ReutersWorldChannel频道没有新的消息需要上传
+2024-03-14 20:04:09,917 - root - INFO - 成功上传翻译后的消息到ReutersWorldChannel频道: 共0条
+2024-03-14 20:14:10,451 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:10,453 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:10,590 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:10,590 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:10,590 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:10,590 - root - INFO - 成功获取了有效频道消息2条
+2024-03-14 20:14:10,590 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:11,023 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 20:14:11,024 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 20:14:11,024 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 20:14:11,024 - root - ERROR - 翻译失败: None, 400
+2024-03-14 20:14:11,459 - httpx - INFO - HTTP Request: POST https://api.deeplx.org/translate "HTTP/1.1 400 Bad Request"
+2024-03-14 20:14:11,459 - root - ERROR - 翻译失败，状态码: 400
+2024-03-14 20:14:11,460 - root - ERROR - {"code":400,"message":"no translate text found"}
+2024-03-14 20:14:11,460 - root - ERROR - 翻译失败: None, 400
+2024-03-14 20:14:11,460 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:11,461 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,461 - root - INFO - rtnews_unc3频道没有新的消息需要上传
+2024-03-14 20:14:11,461 - root - INFO - 成功上传翻译后的消息到rtnews_unc3频道: 共0条
+2024-03-14 20:14:11,461 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:11,462 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,604 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,604 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,604 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,605 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,605 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,605 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:11,605 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:11,605 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:11,606 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,606 - root - INFO - cnnee频道没有新的消息需要上传
+2024-03-14 20:14:11,606 - root - INFO - 成功上传翻译后的消息到cnnee频道: 共0条
+2024-03-14 20:14:11,606 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:11,607 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,746 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,746 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:11,746 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:11,746 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:11,747 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,747 - root - INFO - BBCScienceTech频道没有新的消息需要上传
+2024-03-14 20:14:11,747 - root - INFO - 成功上传翻译后的消息到BBCScienceTech频道: 共0条
+2024-03-14 20:14:11,747 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:11,748 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,913 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,914 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,914 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,914 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,914 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:11,914 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:11,914 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:11,914 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:11,915 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:11,915 - root - INFO - BBCWorldoffl频道没有新的消息需要上传
+2024-03-14 20:14:11,915 - root - INFO - 成功上传翻译后的消息到BBCWorldoffl频道: 共0条
+2024-03-14 20:14:11,915 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:11,916 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,097 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,097 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,097 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,097 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,097 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,097 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:12,098 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:12,098 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:12,099 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,099 - root - INFO - nytimes频道没有新的消息需要上传
+2024-03-14 20:14:12,099 - root - INFO - 成功上传翻译后的消息到nytimes频道: 共0条
+2024-03-14 20:14:12,099 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:12,100 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,232 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,233 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,233 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,233 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:12,233 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:12,233 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:12,234 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,234 - root - INFO - bloomberg频道没有新的消息需要上传
+2024-03-14 20:14:12,234 - root - INFO - 成功上传翻译后的消息到bloomberg频道: 共0条
+2024-03-14 20:14:12,234 - root - INFO - 开始获取来源频道消息
+2024-03-14 20:14:12,236 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,352 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,353 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,353 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,353 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,353 - root - INFO - 已发布过重复新闻，跳过处理
+2024-03-14 20:14:12,353 - root - INFO - 成功获取了有效频道消息0条
+2024-03-14 20:14:12,353 - root - INFO - 开始翻译和处理获取的消息
+2024-03-14 20:14:12,353 - root - INFO - 开始上传翻译后的消息到频道
+2024-03-14 20:14:12,354 - root - INFO - 成功读取新闻哈希表，共90条新闻
+2024-03-14 20:14:12,355 - root - INFO - ReutersWorldChannel频道没有新的消息需要上传
+2024-03-14 20:14:12,355 - root - INFO - 成功上传翻译后的消息到ReutersWorldChannel频道: 共0条
