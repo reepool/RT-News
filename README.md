@@ -1,2 +1,2 @@
-# basketball news publish to tg channel
-# basketball results query for NBA and CBA
+# Get news from tg and translate the news
+# Publish the translated news to a new tg channel
