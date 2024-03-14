@@ -127,7 +127,7 @@ def send_error_message(error_message):
 async def send_error_message_async(bot_thon,error_message):
     chat_id = get_chat_id()
     try:
-        await bot_thon.send_message(chat_id=chat_id, text=error_message)
+        await bot_thon.send_message(chat_id, error_message) # 发送报错消息
     except Exception as e:
         logger.error(f"发送报错消息时出错: {e}")
 
