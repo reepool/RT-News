@@ -1,10 +1,9 @@
 import Services.functions as functions
 import Services.BotService as BotService
-import logging, asyncio, sys, signal
+import asyncio, sys, signal
 
 # 获取日志配置
-functions.setup_logging()
-logger = logging.getLogger()
+logger = functions.setup_logging()
 
 # 记录进程pid
 functions.record_pid()

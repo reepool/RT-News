@@ -1,13 +1,11 @@
 from newspaper import fulltext
 import newspaper
 import tweepy
-import logging
 import Services.functions as functions
 
 
 # 获取日志配置
-functions.setup_logging()
-logger = logging.getLogger()
+logger = functions.setup_logging()
 
 # 定义一个使用newspaper3k提取新闻要素的函数，返回一个包含新闻要素的列表
 def extract_news_elements(News_url, Excpeted_news_url): # 传入新闻网站的URL和要排除的新闻链接

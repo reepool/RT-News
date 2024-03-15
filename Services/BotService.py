@@ -1,12 +1,11 @@
 import Services.functions as functions
 import Services.process_tg_news as process_tg_news
-import logging, asyncio
+import asyncio
 
 # 生成一个日志实例
-functions.setup_logging()
-logger = logging.getLogger()
+logger = functions.setup_logging()
 
-# 创建Telegthon bot实例
+# 创建Telegthon bot实例的函数
 async def create_telethon_instance():
     bot_thon = await functions.get_telethon_bot_instance()
     return bot_thon

@@ -1,8 +1,7 @@
-import httpx, json, logging
+import httpx, json
 import Services.functions as functions
 
-functions.setup_logging() # 获取日志配置
-logger = logging.getLogger() # 获取日志实例
+logger = functions.setup_logging()
 
 # 定义一个异步函数，通过webservice将文本翻译成中文
 async def translate_text_to_Chinese(text):

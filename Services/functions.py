@@ -23,11 +23,22 @@ def get_system_log_file_name():
 
 # 定义日志记录的函数
 def setup_logging():
-    filename = get_system_log_file_name()
-    logging.basicConfig(filename=filename, level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    filename = get_system_log_file_name()    
+    # 创建一个日志器
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)  # 设置日志级别    
+    # 定义日志格式
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')   
+    # 创建一个文件处理器，并设置编码为 utf-8
+    file_handler = logging.FileHandler(filename, encoding='utf-8')
+    file_handler.setFormatter(formatter)  # 设置日志格式    
+    # 将文件处理器添加到日志器
+    logger.addHandler(file_handler)
+    # 确保其他日志处理器不会干扰
+    logger.propagate = False
+    return logger
 
-setup_logging()
-logger = logging.getLogger()
+logger = setup_logging()
 
 
 # 定义一个读取进程PID并记录到文件中的函数

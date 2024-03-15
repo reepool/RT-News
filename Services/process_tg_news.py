@@ -1,10 +1,9 @@
 import Services.functions as functions
 import Services.translate as translate
-import logging, asyncio, re
+import asyncio, re
 
 # 获取日志配置
-functions.setup_logging()
-logger = logging.getLogger()
+logger = functions.setup_logging()
 
 # 定义一个异步函数，使用telethon获取Telegram频道的消息
 async def get_channel_messages(bot_thon,channel_name):
