@@ -30,24 +30,31 @@ def custom_signal_handler(sig, frame):
 signal.signal(CUSTOM_SIGNAL, custom_signal_handler)
 
 async def main():
+    logger.info("程序启动")
     global should_loop
     restart_interval = functions.get_restart_interval()
     while should_loop:
         try:
+            logger.info("开始实例化BotRunner类")
             bot_runner = BotService.BotRunner()
             await bot_runner.run()
         except KeyboardInterrupt:
             logger.info("收到 KeyboardInterrupt，程序终止。")
             should_loop = False
         except Exception as e:
-            logger.error(f"遇到错误，准备重启: {e}")
+            logger.error(f"遇到错误，准备重启资源: {e}")
             if not should_loop:
+                logger.info("已收到程序终止信号，不再重启资源。")
                 break
+            logger.info(f"等待{restart_interval}秒后重启资源")
             await asyncio.sleep(restart_interval)
         finally:
             if BotService.BotRunner.instance is not None:
+                logger.info("开始停止BotRunner实例...")
                 await BotService.BotRunner.instance.stop()
+                logger.info("BotRunner实例已停止")
         if not should_loop:
+            logger.info("程序自维护标准为False，程序准备终止...")
             break
 
     

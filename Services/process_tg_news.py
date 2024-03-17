@@ -67,9 +67,6 @@ async def handel_channel_messages(bot_thon, message_content, channel_name):
             # 提取标题（第一句话，假设它被**包裹）
             match = re.search(r'\*\*(.*?)\*\*', translate_text)
             news_title = match.group(1) if match else msg_text[:30]+"..."
-            # 处理频道消息的格式为Markdown
-            # escape_news_text = functions.escape_markdown(translate_text)
-            # escape_news_time = functions.escape_markdown(msg_date.strftime('%Y-%m-%d %H:%M))
             publish_news = f"**{msg_date}**\n{translate_text}\n\n[From {channel_name}](https://t.me/{channel_name})"
             translated_messages.append((msg_date, msg_text, translate_text, publish_news, msg_media))
             print(f"{translate_text[:30]}...")
@@ -87,27 +84,30 @@ async def send_translated_messages_to_channel(bot_thon, channel_dest_name, trans
 
     # 读取新闻上传日志进入哈希表
     news_log_hash = functions.get_news_log()
-    # 获取本次拟发布的新闻数量
-    news_count = len(translated_messages)
-
+    # 初始化本次拟发布的新闻数量
+    news_count = 0
     # 遍历翻译后的消息内容
     for msg_date, msg_text, msg_translate, publish_news, msg_media in reversed(translated_messages): # 逆序遍历
         # 检查本地哈希表中是否存在重复的新闻哈希值
         compare_result = functions.compare_news_hash_and_news_log(news_log_hash, msg_text)
         if compare_result is False: # 如果存在相同新闻哈希值
-            news_count -= 1 # 本次发布的新闻数量减1
             continue  # 存在相同新闻哈希值，跳过发布
 
         # 异步发布新闻内容到Telegram频道
         message_sent = await functions.send_message_with_retry(bot_thon, channel_dest_name, msg_media, publish_news)
         if message_sent:
+            logger.debug(f"成功发布新闻: {msg_date}, {msg_text[:30]}...")
             # 将新闻要素以哈希表的形式写入文件，以备后续查重
+            msg_date = functions.standardize_time_to_east8(msg_date) # 将时间转换为东八区时间
+            logger.debug(f"新闻发布时间转换到东八区: {msg_date}")
             functions.write_news_hash_to_log(news_log_hash, msg_text, msg_date)
+            news_count += 1 # 计数器加1
+            logger.debug(f"现在已经成功发布了{news_count}条新闻")
             # 获取新闻发布间隔时间
             upload_interval = functions.get_news_interval_time()
             # 控制发送速率，等待一定时间
+            logger.debug(f"等待{upload_interval}秒后继续发送")  
             await asyncio.sleep(upload_interval)
         else:
             await functions.handle_error_async(bot_thon, f"Failed to send message after retries: {msg_text}")
-            news_count -= 1
     return news_count

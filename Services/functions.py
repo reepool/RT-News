@@ -1,11 +1,13 @@
 import configparser
 import re, pickle, traceback
 import os, logging, hashlib
+from logging.handlers import RotatingFileHandler
 import telegram, json
 from telethon import TelegramClient
 from telethon.tl.types import MessageMediaWebPage
 from telethon.errors import FloodError
-import asyncio
+import asyncio, datetime
+from datetime import timezone, timedelta
 
 
 # 定义读取配置文件内变量的函数
@@ -21,20 +23,29 @@ def get_system_log_file_name():
     file = os.path.join(dir_path, system_log_file_name)   
     return file
 
+# 定义读取系统日志级别的函数
+def get_system_log_level():
+    system_log_level = read_config('system', 'log_level')
+    return system_log_level
+
 # 定义日志记录的函数
 def setup_logging():
-    filename = get_system_log_file_name()    
-    # 创建一个日志器
+    filename = get_system_log_file_name()
+    log_level_name = get_system_log_level()  
+    # 获取根日志器
     logger = logging.getLogger()
-    logger.setLevel(logging.INFO)  # 设置日志级别    
-    # 定义日志格式
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')   
-    # 创建一个文件处理器，并设置编码为 utf-8
-    file_handler = logging.FileHandler(filename, encoding='utf-8')
-    file_handler.setFormatter(formatter)  # 设置日志格式    
-    # 将文件处理器添加到日志器
-    logger.addHandler(file_handler)
-    # 确保其他日志处理器不会干扰
+    log_level = logging.getLevelName(log_level_name)  # 将日志级别名称转换为日志级别
+    logger.setLevel(log_level)  # 设置日志级别
+    # 检查是否已经有处理器，以避免重复添加
+    if not logger.handlers:
+        # 定义日志格式
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')    
+        # 创建一个文件处理器，并设置编码为 utf-8
+        file_handler = RotatingFileHandler(filename, mode='a', encoding='utf-8', maxBytes=10*1024*1024, backupCount=5)
+        file_handler.setFormatter(formatter)  # 设置日志格式    
+        # 将文件处理器添加到日志器
+        logger.addHandler(file_handler)
+    # 防止日志消息被传递到根日志器
     logger.propagate = False
     return logger
 
@@ -61,17 +72,23 @@ def record_pid():
 
 # 定义一个从记录PID的文件中读取PID的函数
 def get_pid():
-    # 读取记录PID的文件名
     pure_pid_file_name = read_config('file', 'pid_file_name')
     dir_path = read_config('file', 'dir_path')
     pid_file_name = os.path.join(dir_path, pure_pid_file_name)
-    # 检查文件是否存在，如果不存在这返回0
     if not os.path.exists(pid_file_name):
         logger.error(f"PID文件不存在: {pid_file_name}")
         return 0
-    # 从文件中读取PID
-    with open(pid_file_name, 'r') as file:
-        return int(file.read())
+    try:
+        with open(pid_file_name, 'r') as file:
+            pid = file.read().strip()  # .strip() 用于移除可能的空白字符
+            logger.info(f"成功读取PID: {pid} from file: {pid_file_name}")
+            return int(pid)
+    except ValueError:
+        logger.error(f"PID文件{pid_file_name}中的内容无法转换为整数: {pid}")
+        return 0
+    except Exception as e:
+        logger.error(f"读取PID文件{pid_file_name}时出错: {e}")
+        return 0
 
 # 定义读取配置文件中的Telegram Bot Token的函数
 def get_bot_token():
@@ -314,21 +331,30 @@ def get_retry_interval():
 async def send_message_with_retry(bot_thon, channel_dest_name, msg_media, message):
     retry_interval = get_retry_interval()
     max_attempts = get_transfer_retry_times()
+    logger.info(f"读取最大重传次数: {max_attempts+1}")
     for attempt in range(max_attempts):
         try_time = attempt + 1
+        logger.info(f"尝试第{try_time}次新闻上传到频道: {channel_dest_name}")
         try:
             # 如果消息包含媒体文件
             if msg_media:
+                logger.debug(f"消息包含媒体文件: {msg_media}")
                 # 检查媒体类型是否为MessageMediaWebPage
                 if isinstance(msg_media, MessageMediaWebPage):
+                    logger.debug(f"媒体类型为MessageMediaWebPage")
                     # 提取并发送网页信息，而不是作为文件
                     web_page_message = f"{message}\nURL: {msg_media.webpage.url}"
                     await bot_thon.send_message(channel_dest_name, web_page_message, parse_mode='md')
+                    logger.debug(f"第{try_time}次尝试，成功发送网页信息: {msg_media.webpage.url}")
                 else:
                     # 处理其他类型的媒体文件
+                    logger.debug(f"媒体类型为其他类型，包括文件、图片、视频等")
                     await bot_thon.send_file(channel_dest_name, file=msg_media, caption=message, parse_mode='md')
+                    logger.debug(f"第{try_time}次尝试，成功发送媒体文件")
             else:
                 await bot_thon.send_message(channel_dest_name, message, parse_mode='md')
+                logger.debug(f"第{try_time}次尝试，成功发送消息: {message[30:]}...")
+            logger.info(f"新闻上传到频道{channel_dest_name}成功：{message[:30]}...")
             return True  # 消息发送成功
         except FloodError as e:
             retry_after = e.seconds
@@ -339,6 +365,7 @@ async def send_message_with_retry(bot_thon, channel_dest_name, msg_media, messag
             exception_type = type(e).__name__
             logger.error(f"An error occurred: {e}. Exception type: {exception_type}. Attempt: {try_time}")
             await asyncio.sleep(retry_interval * (try_time))  # 重试间隔时间递增
+    logger.error(f"消息上传经过{try_time}次均失败: {message[:30]}...")
     return False  # 消息发送失败
 
 # 定义比较新闻上传日志和新闻哈希值的函数
@@ -347,8 +374,9 @@ def compare_news_hash_and_news_log(news_log_hash, msg_text):
     news_text_hash = get_hash(msg_text)
     # 检查本地哈希表中是否存在重复的新闻哈希值
     if news_text_hash in news_log_hash:
-        # 本次发布的新闻数量减1
+        logger.info(f"新闻哈希值{news_text_hash}已存在于日志中")
         return False
+    logger.info(f"新闻哈希值{news_text_hash}不存在于日志中")
     return True
 
 # 定义将新闻哈希值写入新闻上传日志的函数
@@ -359,3 +387,12 @@ def write_news_hash_to_log(news_log_hash, msg_text, msg_date):
     news_log_hash[news_text_hash] = {'date': msg_date, 'text': msg_text}
     write_news_log(news_log_hash)
     logger.info(f"成功写入新闻哈希值到日志: {news_text_hash}")
+
+def standardize_time_to_east8(dt: datetime.datetime) -> datetime.datetime:
+    # 确保datetime对象是带有时区信息的，这里假设它是UTC时间
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    # 将UTC时间转换为东八区时间
+    east8_zone = timezone(timedelta(hours=8))
+    local_dt = dt.astimezone(east8_zone)
+    return local_dt
